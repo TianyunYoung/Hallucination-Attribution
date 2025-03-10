@@ -85,18 +85,39 @@ sh ./bash_scripts/targeted_finetune.sh
 - We provide the fine-tuned model of [LLaVA](https://huggingface.co/TianyunYoung/llava-v1.5-7b-targeted-finetuned) and [MiniGPT4](https://huggingface.co/TianyunYoung/minigpt4-finetuned/tree/main).
 
 
-## Comparison with Baseline methods (To be added)
+## Comparison with Baseline methods
 
-We provide the evaluation code for the following baseline methods and our method in the `baselines` folder. The evaluation results in our paper are based on this code to ensure fair comparison with the baseline methods.
+We provide the evaluation code for the following baseline methods and our method in the `baselines` folder. The baseline implementation of baseline methods are mostly based on [HALC](https://github.com/BillChan226/HALC). The evaluation results in our paper are based on this code to ensure fair comparison with the baseline methods:
 
 - Greedy decoding
 - VCD
 - DOLA
 - HALC
 - OPERA
-- Ours (TFHH)
-- Ours (ADHH)
 
+
+### Setup
+```
+conda env create -f environment.yml
+conda activate baselines
+```
+Download `pretrained_minigpt4_llama2_7b.pth` from [here](https://huggingface.co/juliozhao/pretrained_minigpt4_llama2_7b/blob/0db7eb37de990b48511520894753354861d616d4/pretrained_minigpt4_llama2_7b.pth) and put in the directory `baselines/model_checkpoints`
+
+Download `groundingdino_swint_ogc.pth` from [here](https://github.com/IDEA-Research/GroundingDINO/releases/download/v0.1.0-alpha/groundingdino_swint_ogc.pth) and put in the directory `baselines/decoder_zoo/GroundingDINO/weights`
+
+### Evaluation
+
+Evaluate the baseline methods: Greedy decoding, VCD, DOLA, HALC, OPERA
+```
+cd baselines
+sh ./bash_scripts/eval_baselines.sh
+```
+
+Evaluate our methods: TFHH and ADHH
+```
+sh ./bash_scripts/eval_ours_adhh.sh
+sh ./bash_scripts/eval_ours_tfhh.sh
+```
 
 ## Evaluation on Newer Models (To be added)
 
