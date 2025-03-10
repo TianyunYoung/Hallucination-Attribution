@@ -25,7 +25,7 @@ pip install -e .
 
 ### Identify Hallucination Heads
 
-Dowload coco train2014 and val2014 images from [here](https://cocodataset.org/#download) and put them in `datasets/coco`.
+Dowload coco train2014 and val2014 images from [here](https://cocodataset.org/#download) and put them in `dataset/coco`.
 
 ```
 sh ./bash_scripts/attribute.sh
@@ -119,14 +119,18 @@ sh ./bash_scripts/eval_ours_adhh.sh
 sh ./bash_scripts/eval_ours_tfhh.sh
 ```
 
-## Evaluation on Newer Models (To be added)
+## Evaluation on Newer Models
 
 Our method is also applicable to newer models. We provide the evaluation code for the following newer models in the `newer_models` folder. Note that to support the evaluation of newer models, we need to install higher version of `transformers`, we use `transformers==4.45.2`. We provide the naive method of completely removing hallucination heads of the newer models for reference.
 
 - Llama3.2-11B
 - Chameleon-7B
 - Chameleon-30B
-
+ 
+```
+cd newer_models
+sh decoding.sh
+```
 
 ## Acknowledgement
 
