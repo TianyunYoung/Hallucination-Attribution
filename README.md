@@ -27,7 +27,7 @@ pip install -e .
 
 Dowload coco train2014 and val2014 images from [here](https://cocodataset.org/#download) and put them in `datasets/coco`.
 
-```bash
+```
 sh ./bash_scripts/attribute.sh
 ```
 The attribution result is saved in `$result_path/identify_attention_head/attribution_result.json`.
@@ -37,34 +37,34 @@ The attribution result is saved in `$result_path/identify_attention_head/attribu
 1. The attention bias of hallucination heads, corresponding to Figure 3 in the paper.
 
 ```
-sh ./bash_scripts/analyze/attention_bias.sh
+sh ./bash_scripts/analysis/attention_bias.sh
 ```
 
 <img src='figs/attention_bias.png' width=300>
 
 2. The inheritance of attention patterns from base language models, corresponding to Figure 4 in the paper.
 ```
-sh ./bash_scripts/analyze/attention_inheritance.sh
+sh ./bash_scripts/analysis/attention_inheritance.sh
 ```
 <img src='figs/halhead.png' width=600>
 <img src='figs/nonhalhead.png' width=600>
 
 3. The JS divergence of the attention map from the initial model throughout the instruction tuning process, corresponding to Figure 5 in the paper. We provide the checkpoints during the instruction tuning process [here](https://huggingface.co/TianyunYoung/llava-v1.5-7b-instruction-tuning-checkpoints/tree/main), put them in `checkpoints/llava-v1.5-7b-instruction-tuning`.
 ```
-sh ./bash_scripts/analyze/js_div_in_training.sh
+sh ./bash_scripts/analysis/js_div_in_training.sh
 ```
 <img src='figs/js_div_in_training.png' width=300>
 
 4. The effect of downscaling the text attention of hallucination and random heads, Figure 6(a) in the paper.
 ```
-sh ./bash_scripts/analyze/attention_reweight.sh --reweight_text
+sh ./bash_scripts/analysis/attention_reweight_txt.sh
 ```
 <img src='figs/text_reweight.png' width=300>
 
 
 5. The effect of upscaling the image attention of hallucination and random heads, Figure 6(b) in the paper.
 ```
-sh ./bash_scripts/analyze/attention_reweight.sh --reweight_image
+sh ./bash_scripts/analysis/attention_reweight_img.sh
 ```
 <img src='figs/img_reweight.png' width=300>
 
