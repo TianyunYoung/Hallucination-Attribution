@@ -12,7 +12,7 @@ This paper solves the following problems:
 3. Hallucination Mitigation Techniques: We develop two targeted strategies: one training-free for decoding and one involving fine-tuning. Both methods reduce over-reliance on text tokens, achieving a significant reduction in hallucination rates, outperforming existing baselines. 
 
 
-## Scripts
+## Demo Scripts on LLaVA
 
 In the following, we provide code for the attribution, analysis, and intervention of hallucination heads based on LLaVA v1.5-7B model in the `LLaVA` folder.
 
