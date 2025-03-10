@@ -1,0 +1,832 @@
+{
+    "Coin": [
+        "Coin"
+    ],
+    "Flag": [
+        "Flag"
+    ],
+    "Light bulb": [
+        "Light bulb"
+    ],
+    "Toy": [
+        "Dice",
+        "Doll",
+        "Teddy bear",
+        "Balloon",
+        "Kite",
+        "Toy",
+        "Flying disc"
+    ],
+    "Home appliance": [
+        "Oven",
+        "Hair dryer",
+        "Ceiling fan",
+        "Blender",
+        "Home appliance",
+        "Heater",
+        "Sewing machine",
+        "Washing machine",
+        "Humidifier",
+        "Mixer",
+        "Hand dryer",
+        "Dishwasher",
+        "Toaster",
+        "Microwave oven",
+        "Coffeemaker",
+        "Mechanical fan",
+        "Gas stove",
+        "Kettle",
+        "Wood-burning stove",
+        "Refrigerator"
+    ],
+    "Plumbing fixture": [
+        "Plumbing fixture",
+        "Sink",
+        "Bidet",
+        "Tap",
+        "Toilet",
+        "Shower",
+        "Bathtub"
+    ],
+    "Office supplies": [
+        "Fax",
+        "Paper cutter",
+        "Envelope",
+        "Box",
+        "Adhesive tape",
+        "Whiteboard",
+        "Pen",
+        "Pencil case",
+        "Stapler",
+        "Office supplies",
+        "Calculator",
+        "Plastic bag",
+        "Ring binder",
+        "Toilet paper",
+        "Eraser",
+        "Scissors",
+        "Pencil sharpener",
+        "Poster"
+    ],
+    "Paper towel": [
+        "Paper towel"
+    ],
+    "Pillow": [
+        "Pillow"
+    ],
+    "Kitchenware": [
+        "Pressure cooker",
+        "Mixing bowl",
+        "Can opener",
+        "Oven",
+        "Serving tray",
+        "Pizza cutter",
+        "Waffle iron",
+        "Teapot",
+        "Fork",
+        "Blender",
+        "Knife",
+        "Chopsticks",
+        "Spice rack",
+        "Spoon",
+        "Spatula",
+        "Measuring cup",
+        "Drinking straw",
+        "Cake stand",
+        "Bowl",
+        "Mixer",
+        "Salt and pepper shakers",
+        "Frying pan",
+        "Dishwasher",
+        "Pitcher (Container)",
+        "Kitchen utensil",
+        "Bottle opener",
+        "Bottle",
+        "Kitchenware",
+        "Tableware",
+        "Saucer",
+        "Mug",
+        "Slow cooker",
+        "Microwave oven",
+        "Coffeemaker",
+        "Coffee cup",
+        "Wine glass",
+        "Wok",
+        "Platter",
+        "Food processor",
+        "Kitchen knife",
+        "Cocktail shaker",
+        "Ladle",
+        "Whisk",
+        "Plate",
+        "Refrigerator",
+        "Cutting board",
+        "Kitchen appliance",
+        "Jug"
+    ],
+    "Fireplace": [
+        "Fireplace"
+    ],
+    "Countertop": [
+        "Countertop"
+    ],
+    "Book": [
+        "Book"
+    ],
+    "Furniture": [
+        "Loveseat",
+        "Coffee table",
+        "Chair",
+        "Couch",
+        "Furniture",
+        "Closet",
+        "Sofa bed",
+        "Wine rack",
+        "Filing cabinet",
+        "Infant bed",
+        "Cabinetry",
+        "Chest of drawers",
+        "Shelf",
+        "Bathroom cabinet",
+        "Bench",
+        "Cupboard",
+        "Bed",
+        "Table",
+        "Bookcase",
+        "Studio couch",
+        "Nightstand",
+        "Kitchen & dining room table",
+        "Wall clock",
+        "Wardrobe",
+        "Stool",
+        "Desk",
+        "Drawer"
+    ],
+    "Dog bed": [
+        "Dog bed"
+    ],
+    "Cat furniture": [
+        "Cat furniture"
+    ],
+    "Lantern": [
+        "Lantern"
+    ],
+    "Clock": [
+        "Clock",
+        "Wall clock",
+        "Digital clock",
+        "Alarm clock"
+    ],
+    "Vase": [
+        "Vase"
+    ],
+    "Window blind": [
+        "Window blind"
+    ],
+    "Curtain": [
+        "Curtain"
+    ],
+    "Mirror": [
+        "Mirror"
+    ],
+    "Sculpture": [
+        "Sculpture",
+        "Snowman",
+        "Bronze sculpture",
+        "Bust"
+    ],
+    "Picture frame": [
+        "Picture frame"
+    ],
+    "Candle": [
+        "Candle"
+    ],
+    "Lamp": [
+        "Lamp"
+    ],
+    "Bathroom accessory": [
+        "Bathroom accessory",
+        "Facial tissue holder",
+        "Soap dispenser",
+        "Toilet paper",
+        "Towel"
+    ],
+    "Beehive": [
+        "Beehive"
+    ],
+    "Tent": [
+        "Tent"
+    ],
+    "Parking meter": [
+        "Parking meter"
+    ],
+    "Traffic light": [
+        "Traffic light"
+    ],
+    "Billboard": [
+        "Billboard"
+    ],
+    "Traffic sign": [
+        "Stop sign",
+        "Traffic sign"
+    ],
+    "Fire hydrant": [
+        "Fire hydrant"
+    ],
+    "Fountain": [
+        "Fountain"
+    ],
+    "Street light": [
+        "Street light"
+    ],
+    "Jacuzzi": [
+        "Jacuzzi"
+    ],
+    "Building": [
+        "Convenience store",
+        "Tree house",
+        "Skyscraper",
+        "Castle",
+        "House",
+        "Building",
+        "Tower",
+        "Office building",
+        "Lighthouse"
+    ],
+    "Swimming pool": [
+        "Swimming pool"
+    ],
+    "Person": [
+        "Woman",
+        "Boy",
+        "Person",
+        "Man",
+        "Girl"
+    ],
+    "Food": [
+        "Common fig",
+        "Pear",
+        "Baked goods",
+        "Mushroom",
+        "Muffin",
+        "Grape",
+        "Carrot",
+        "Cheese",
+        "Winter melon",
+        "Submarine sandwich",
+        "Egg (Food)",
+        "Cucumber",
+        "Food",
+        "Cabbage",
+        "French fries",
+        "Shellfish",
+        "Burrito",
+        "Squid",
+        "Mango",
+        "Hot dog",
+        "Pretzel",
+        "Lemon",
+        "Bagel",
+        "Apple",
+        "Cantaloupe",
+        "Waffle",
+        "Vegetable",
+        "Shrimp",
+        "Tart",
+        "Croissant",
+        "Peach",
+        "Pizza",
+        "Tomato",
+        "Taco",
+        "Banana",
+        "Cooking spray",
+        "Garden Asparagus",
+        "Honeycomb",
+        "Potato",
+        "Snack",
+        "Broccoli",
+        "Bread",
+        "Pancake",
+        "Popcorn",
+        "Candy",
+        "Orange",
+        "Crab",
+        "Cookie",
+        "Dessert",
+        "Strawberry",
+        "Zucchini",
+        "Sandwich",
+        "Pasta",
+        "Oyster",
+        "Grapefruit",
+        "Bell pepper",
+        "Radish",
+        "Doughnut",
+        "Squash (Plant)",
+        "Fruit",
+        "Seafood",
+        "Ice cream",
+        "Pineapple",
+        "Watermelon",
+        "Pomegranate",
+        "Dairy Product",
+        "Guacamole",
+        "Hamburger",
+        "Lobster",
+        "Pumpkin",
+        "Fast food",
+        "Artichoke",
+        "Cake",
+        "Milk",
+        "Pastry",
+        "Salad",
+        "Sushi"
+    ],
+    "Plant": [
+        "Rose",
+        "Willow",
+        "Maple",
+        "Palm tree",
+        "Plant",
+        "Houseplant",
+        "Lily",
+        "Tree",
+        "Flower",
+        "Christmas tree",
+        "Lavender (Plant)",
+        "Common sunflower"
+    ],
+    "Vehicle": [
+        "Airplane",
+        "Gondola",
+        "Barge",
+        "Snowmobile",
+        "Golf cart",
+        "Cart",
+        "Ambulance",
+        "Watercraft",
+        "Car",
+        "Helicopter",
+        "Jet ski",
+        "Taxi",
+        "Canoe",
+        "Segway",
+        "Vehicle",
+        "Tank",
+        "Unicycle",
+        "Limousine",
+        "Motorcycle",
+        "Submarine",
+        "Rocket",
+        "Boat",
+        "Train",
+        "Aircraft",
+        "Land vehicle",
+        "Bus",
+        "Wheelchair",
+        "Truck",
+        "Bicycle",
+        "Van"
+    ],
+    "Clothing": [
+        "Jacket",
+        "Roller skates",
+        "Briefcase",
+        "Boot",
+        "Sun hat",
+        "Swim cap",
+        "Earrings",
+        "Necklace",
+        "Tie",
+        "High heels",
+        "Sock",
+        "Watch",
+        "Shorts",
+        "Suitcase",
+        "Miniskirt",
+        "Coat",
+        "Brassiere",
+        "Swimwear",
+        "Handbag",
+        "Bicycle helmet",
+        "Tiara",
+        "Baseball glove",
+        "Helmet",
+        "Sombrero",
+        "Backpack",
+        "Footwear",
+        "Luggage and bags",
+        "Sunglasses",
+        "Goggles",
+        "Crown",
+        "Trousers",
+        "Sandal",
+        "Scarf",
+        "Glasses",
+        "Skirt",
+        "Fashion accessory",
+        "Fedora",
+        "Hat",
+        "Glove",
+        "Belt",
+        "Football helmet",
+        "Shirt",
+        "Cowboy hat",
+        "Clothing",
+        "Sports uniform",
+        "Jeans",
+        "Suit",
+        "Dress",
+        "Umbrella"
+    ],
+    "Animal": [
+        "Swan",
+        "Bat (Animal)",
+        "Camel",
+        "Skunk",
+        "Carnivore",
+        "Jaguar (Animal)",
+        "Porcupine",
+        "Chicken",
+        "Butterfly",
+        "Dolphin",
+        "Worm",
+        "Pig",
+        "Squirrel",
+        "Turtle",
+        "Horse",
+        "Monkey",
+        "Cheetah",
+        "Snail",
+        "Penguin",
+        "Duck",
+        "Giraffe",
+        "Frog",
+        "Shellfish",
+        "Squid",
+        "Sheep",
+        "Tiger",
+        "Goldfish",
+        "Reptile",
+        "Magpie",
+        "Mule",
+        "Raccoon",
+        "Otter",
+        "Alpaca",
+        "Shrimp",
+        "Animal",
+        "Shark",
+        "Teddy bear",
+        "Canary",
+        "Ostrich",
+        "Isopod",
+        "Scorpion",
+        "Snake",
+        "Sparrow",
+        "Ant",
+        "Sea lion",
+        "Starfish",
+        "Zebra",
+        "Cat",
+        "Brown bear",
+        "Dog",
+        "Rabbit",
+        "Elephant",
+        "Goose",
+        "Invertebrate",
+        "Sea turtle",
+        "Eagle",
+        "Turkey",
+        "Beetle",
+        "Rays and skates",
+        "Centipede",
+        "Rhinoceros",
+        "Crab",
+        "Spider",
+        "Hippopotamus",
+        "Kangaroo",
+        "Leopard",
+        "Bird",
+        "Tortoise",
+        "Tick",
+        "Crocodile",
+        "Lynx",
+        "Mammal",
+        "Dinosaur",
+        "Jellyfish",
+        "Fish",
+        "Bee",
+        "Falcon",
+        "Raven",
+        "Antelope",
+        "Harbor seal",
+        "Woodpecker",
+        "Parrot",
+        "Oyster",
+        "Marine mammal",
+        "Red panda",
+        "Fox",
+        "Whale",
+        "Insect",
+        "Hedgehog",
+        "Dragonfly",
+        "Blue jay",
+        "Hamster",
+        "Goat",
+        "Lion",
+        "Marine invertebrates",
+        "Deer",
+        "Owl",
+        "Lizard",
+        "Cattle",
+        "Seahorse",
+        "Caterpillar",
+        "Armadillo",
+        "Bull",
+        "Bear",
+        "Lobster",
+        "Mouse",
+        "Ladybug",
+        "Koala",
+        "Moths and butterflies",
+        "Polar bear",
+        "Panda"
+    ],
+    "Cosmetics": [
+        "Cosmetics",
+        "Perfume",
+        "Lipstick",
+        "Face powder",
+        "Hair spray"
+    ],
+    "Personal care": [
+        "Diaper",
+        "Sunglasses",
+        "Personal care",
+        "Goggles",
+        "Toothbrush",
+        "Wheelchair",
+        "Crutch",
+        "Glasses",
+        "Cream"
+    ],
+    "Medical equipment": [
+        "Medical equipment",
+        "Band-aid",
+        "Stretcher",
+        "Stethoscope",
+        "Syringe"
+    ],
+    "Musical instrument": [
+        "Saxophone",
+        "Organ (Musical Instrument)",
+        "Banjo",
+        "Violin",
+        "Oboe",
+        "Harp",
+        "Harpsichord",
+        "Maracas",
+        "Cello",
+        "Flute",
+        "French horn",
+        "Musical keyboard",
+        "Piano",
+        "Guitar",
+        "Harmonica",
+        "Trumpet",
+        "Accordion",
+        "Trombone",
+        "Chime",
+        "Drum",
+        "Musical instrument"
+    ],
+    "Sports equipment": [
+        "Punching bag",
+        "Paddle",
+        "Baseball bat",
+        "Roller skates",
+        "Rugby ball",
+        "Volleyball (Ball)",
+        "Racket",
+        "Table tennis racket",
+        "Dumbbell",
+        "Golf ball",
+        "Tennis ball",
+        "Ski",
+        "Bicycle helmet",
+        "Baseball glove",
+        "Helmet",
+        "Surfboard",
+        "Scoreboard",
+        "Skateboard",
+        "Hiking equipment",
+        "Football",
+        "Horizontal bar",
+        "Sports equipment",
+        "Parachute",
+        "Snowboard",
+        "Personal flotation device",
+        "Treadmill",
+        "Balance beam",
+        "Cricket ball",
+        "Ball",
+        "Stationary bicycle",
+        "Tennis racket",
+        "Training bench",
+        "Football helmet",
+        "Indoor rower",
+        "Billiard table",
+        "Bowling equipment",
+        "Bow and arrow",
+        "Bicycle",
+        "Flying disc"
+    ],
+    "Tool": [
+        "Can opener",
+        "Snowplow",
+        "Toothbrush",
+        "Pizza cutter",
+        "Wrench",
+        "Tool",
+        "Fork",
+        "Knife",
+        "Nail (Construction)",
+        "Chopsticks",
+        "Spoon",
+        "Container",
+        "Spatula",
+        "Measuring cup",
+        "Drinking straw",
+        "Tripod",
+        "Picnic basket",
+        "Kitchen utensil",
+        "Beaker",
+        "Grinder",
+        "Bottle opener",
+        "Bottle",
+        "Tin can",
+        "Ratchet (Device)",
+        "Axe",
+        "Ruler",
+        "Flashlight",
+        "Flowerpot",
+        "Chainsaw",
+        "Scale",
+        "Hammer",
+        "Chisel",
+        "Binoculars",
+        "Ladder",
+        "Screwdriver",
+        "Ladle",
+        "Whisk",
+        "Waste container",
+        "Barrel",
+        "Cutting board",
+        "Camera",
+        "Torch",
+        "Drill (Tool)",
+        "Scissors",
+        "Jug"
+    ],
+    "Weapon": [
+        "Axe",
+        "Cannon",
+        "Handgun",
+        "Tank",
+        "Bow and arrow",
+        "Missile",
+        "Shotgun",
+        "Knife",
+        "Weapon",
+        "Rifle",
+        "Dagger",
+        "Bomb",
+        "Sword"
+    ],
+    "Cassette deck": [
+        "Cassette deck"
+    ],
+    "Headphones": [
+        "Headphones"
+    ],
+    "Laptop": [
+        "Laptop"
+    ],
+    "Computer keyboard": [
+        "Computer keyboard"
+    ],
+    "Printer": [
+        "Printer"
+    ],
+    "Computer mouse": [
+        "Computer mouse"
+    ],
+    "Computer monitor": [
+        "Computer monitor"
+    ],
+    "Power plugs and sockets": [
+        "Power plugs and sockets"
+    ],
+    "Light switch": [
+        "Light switch"
+    ],
+    "Television": [
+        "Television"
+    ],
+    "Telephone": [
+        "Corded phone",
+        "Mobile phone",
+        "Telephone"
+    ],
+    "Tablet computer": [
+        "Tablet computer"
+    ],
+    "Microphone": [
+        "Microphone"
+    ],
+    "Ipod": [
+        "Ipod"
+    ],
+    "Remote control": [
+        "Remote control"
+    ],
+    "Drink": [
+        "Beer",
+        "Cocktail",
+        "Tea",
+        "Wine",
+        "Juice",
+        "Coffee",
+        "Drink"
+    ],
+    "Bicycle wheel": [
+        "Bicycle wheel"
+    ],
+    "Door handle": [
+        "Door handle"
+    ],
+    "Door": [
+        "Door"
+    ],
+    "Window": [
+        "Window"
+    ],
+    "Stairs": [
+        "Stairs"
+    ],
+    "Porch": [
+        "Porch"
+    ],
+    "Human eye": [
+        "Human eye"
+    ],
+    "Skull": [
+        "Skull"
+    ],
+    "Human head": [
+        "Human head"
+    ],
+    "Human face": [
+        "Human face"
+    ],
+    "Human mouth": [
+        "Human mouth"
+    ],
+    "Human ear": [
+        "Human ear"
+    ],
+    "Human nose": [
+        "Human nose"
+    ],
+    "Human hair": [
+        "Human hair"
+    ],
+    "Human hand": [
+        "Human hand"
+    ],
+    "Human foot": [
+        "Human foot"
+    ],
+    "Human arm": [
+        "Human arm"
+    ],
+    "Human leg": [
+        "Human leg"
+    ],
+    "Human beard": [
+        "Human beard"
+    ],
+    "Human body": [
+        "Human body"
+    ],
+    "Auto part": [
+        "Seat belt",
+        "Wheel",
+        "Auto part",
+        "Tire",
+        "Vehicle registration plate"
+    ],
+    "Coconut": [
+        "Coconut"
+    ]
+}
