@@ -1,8 +1,8 @@
-# Mitigating Hallucinations in Large Vision-Language Models via Modular Attribution and Intervention
+# Understanding and Mitigating Hallucinations in Large Vision-Language Models via Modular Attribution and Intervention
 
 ## Overview
 
-This repo contains the code for the paper "Mitigating Hallucinations in Large Vision-Language Models via Modular Attribution and Intervention, ICLR 2025".
+This repo contains the code for the paper "Understanding and Mitigating Hallucinations in Large Vision-Language Models via Modular Attribution and Intervention, ICLR 2025".
 
 This paper solves the following problems:
 1. Attribution of Hallucination Components: We systematically identify and localize the components most responsible for hallucination generation in LVLMs. Specifically, we show that MHA modules, particularly certain heads in the middle and deeper layers, are key contributors.
